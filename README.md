@@ -7,6 +7,7 @@ https://nsrdb.nrel.gov/data-sets/international-data
 
 Approach:
 - I should be able to start by understanding the dataset and identifying the features that could influence solar radiation:
+
 - Sub Look at the data to see what it contains (e.g., columns, types of information).
 - Sub Find possible factors (like temperature or humidity) that might affect solar radiation.
 - Sub Check if there are any patterns over time or by location.
