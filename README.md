@@ -3,13 +3,19 @@ Implementing ML for linear regression to predict solar radiation levels in the c
 
 Solar Radiation Datasets:
 https://nsrdb.nrel.gov/data-sets/international-data
+
 https://www.kaggle.com/datasets/dronio/SolarEnergy/data
+
 https://www.kaggle.com/datasets/ibrahimkiziloklu/solar-radiation-dataset
+
 https://www.kaggle.com/datasets/fuarresvij/uv-index-in-usa/data
+
 
 Skin Cancer Datasets:
 https://www.kaggle.com/datasets/farjanakabirsamanta/skin-cancer-dataset
+
 https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data
+
 
 ## Project Approach
 
